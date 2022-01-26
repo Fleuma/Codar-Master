@@ -38,11 +38,15 @@
     }
 
     #alavanque {
-        font-size: 4.3vh;
+        font-size: 4vh;
     }
 
     #alavanque span {
-        font-size: 7.6vh;
+        font-size: 6vh;
+    }
+
+    .button-red {
+        width: 370px;
     }
 
     #servicos {
@@ -78,7 +82,8 @@
     }
 
     #contato-tele h2 {
-        font-size: 1.3em;
+        font-size: 1.1em;
+        text-align: center;
     }
 
     #contato-tele div {
@@ -114,6 +119,7 @@
         align-items: center;
         justify-content: center;
         width: 100%;
+        padding: 0px;
     }
 
     #codar-title {
@@ -125,7 +131,6 @@
         margin-bottom: 20px ;
     }
 
-    .Codar,
     .Sobre,
     .Contato,
     .Redes {

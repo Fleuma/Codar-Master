@@ -29,7 +29,7 @@
     #video-call {
         width: 100%;
         height: 100%;
-        margin: 26px 0px;
+        margin: 50px 0px;
     }
 
     #main-text {
@@ -38,7 +38,8 @@
     }
 
     #alavanque {
-        font-size: 3.5vh;
+        font-size: 3.4vh;
+        text-align: center;
     }
 
     #alavanque span {
@@ -47,6 +48,7 @@
 
     .button-red {
         width: 370px;
+        text-align: center;
     }
 
     #servicos {
@@ -103,6 +105,11 @@
 
     .avaliacao {
         width: 80%;
+    }
+
+    .circle {
+        width: 50px;
+        height: 50px;
     }
 
     footer {
